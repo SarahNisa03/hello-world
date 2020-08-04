@@ -1,4 +1,11 @@
 # hello-world
 just test repository
 
-i am sarah, i am a beginners in GitHub. i want to explore GitHub first.
+
+1
+2
+3
+4
+i want to test and learn about GitHub
+=======
+
